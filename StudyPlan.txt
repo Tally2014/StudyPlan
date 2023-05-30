@@ -1,0 +1,37 @@
+Step 1: Git and Github
+Spend the first week (7 days) learning Git and Github using the "The Git & Github Bootcamp" course by Colt Steele.
+Allocate 1 hour every day for this course and complete it within the week.
+Recommended additional resource:
+
+"Learn Git Branching" interactive tutorial (https://learngitbranching.js.org/)
+Step 2: HTML and CSS
+Spend the next 2 weeks (14 days) learning HTML and CSS using "The Web Developer Bootcamp 2023" course by Colt Steele.
+Allocate 2 hours every day for this course and complete it within the 2 weeks.
+During this period, also practice building simple websites and web pages using HTML and CSS. You can find free coding challenges and projects on websites like FreeCodeCamp (https://www.freecodecamp.org/) and Codepen (https://codepen.io/).
+Recommended additional resource:
+
+"HTML and CSS: Design and Build Websites" book by Jon Duckett
+Step 3: JavaScript
+Spend the next 4 weeks (28 days) learning JavaScript using "The Web Developer Bootcamp 2023" course by Colt Steele.
+Allocate 2 hours every day for this course and complete it within the 4 weeks.
+During this period, also practice writing JavaScript code and building simple applications. You can use resources like JavaScript30 (https://javascript30.com/) and Codewars (https://www.codewars.com/) for coding challenges and projects.
+Recommended additional resources:
+
+"Eloquent JavaScript" book by Marijn Haverbeke
+"You Don't Know JS" book series by Kyle Simpson
+Step 4: React
+Spend the next 6 weeks (42 days) learning React using the "React JS Tutorial For Beginners" playlist on YouTube.
+Allocate 2 hours every day for this playlist and complete it within the 6 weeks.
+During this period, also practice building simple React applications. You can find project ideas and coding challenges on websites like FreeCodeCamp and Codepen.
+Recommended additional resource:
+
+"The Complete React Developer Course" by Andrew Mead (https://www.udemy.com/course/react-2nd-edition/)
+Step 5: Practice and Build Portfolio
+Spend the remaining time before the end of the year practicing and building your portfolio.
+Allocate 1-2 hours every day for coding challenges, building projects, and improving your portfolio.
+Use this time to also explore other essential technologies in front-end development such as CSS frameworks like Bootstrap and JavaScript libraries like jQuery.
+Recommended additional resources:
+
+"Bootstrap 5 Tutorial" by Traversy Media (https://www.youtube.com/watch?v=4sosXZsdy-s)
+"jQuery Tutorial" by The Net Ninja (https://www.youtube.com/watch?v=4SzhA4Gj75A)
+By following this study plan, you should be able to achieve your goal of becoming a front-end developer by the end of the year. Remember to stay consistent and practice regularly to reinforce your learning. Good luck!
