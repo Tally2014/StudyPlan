@@ -5,10 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Study Plan</title>
+    <link rel="stylesheet" href="app.css">
 </head>
 <body>
     <div>
-        <h1>Study Plan</h1>
+        <svg viewBox="0 0 600 300">
+            <!-- Symbol-->
+            <symbol id="s-text">
+              <text class="header" text-anchor="middle" x="50%" y="50%" dy=".35em">Study Plan</text>
+            </symbol>
+            <!-- Duplicate symbols-->
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+          </svg>
+    </div>
+    
+    <div class="content-text">   
         <p>Great! Here's a recommended study plan for you to achieve your goal of becoming a front-end developer by the end of the year:</p>
         <h3>Step 1: Git and Github</h3>
         <ol>
